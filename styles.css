@@ -65,6 +65,7 @@ body {
   flex-grow: 1;
   padding: 10px;
   background: red;
+  align-items: center;
   color: white;
 }
 
